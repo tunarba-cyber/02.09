@@ -1,0 +1,30 @@
+using Microsoft.EntityFrameworkCore;
+using ProniaModular.Modules.Products.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProniaModular.Modules.Products.Data
+{
+    public class ProductsDbContext : DbContext
+    {
+        public ProductsDbContext(DbContextOptions<ProductsDbContext> options) : base(options)
+        {
+        }
+
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Size> Sizes { get; set; }
+        public DbSet<ProductSize> ProductSizes { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // Apply all configurations from the Configurations folder
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(ProductsDbContext).Assembly);
+        }
+    }
+}

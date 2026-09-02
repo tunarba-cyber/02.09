@@ -1,0 +1,25 @@
+using MediatR;
+using ProniaModular.Modules.Products.Data;
+
+namespace ProniaModular.Modules.Products.Features.Categories.Queries.GetAllCategories
+{
+    public class GetAllCategoriesHandler : IRequestHandler<GetAllCategoriesQuery, List<GetAllCategoriesResponse>>
+    {
+        private readonly ProductsDbContext _context;
+
+        public GetAllCategoriesHandler(ProductsDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<List<GetAllCategoriesResponse>> Handle(GetAllCategoriesQuery request, CancellationToken cancellationToken)
+        {
+            var categories = _context.Categories
+                .Where(c => c.IsDeleted == 0)
+                .Select(c => new GetAllCategoriesResponse(c.Id, c.Name))
+                .ToList();
+
+            return await Task.FromResult(categories);
+        }
+    }
+}

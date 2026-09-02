@@ -1,0 +1,29 @@
+using MediatR;
+using ProniaModular.Modules.Products.Data;
+
+namespace ProniaModular.Modules.Products.Features.Categories.Commands.DeleteCategory
+{
+    public class DeleteCategoryHandler : IRequestHandler<DeleteCategoryCommand, DeleteCategoryResponse>
+    {
+        private readonly ProductsDbContext _context;
+
+        public DeleteCategoryHandler(ProductsDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<DeleteCategoryResponse> Handle(DeleteCategoryCommand request, CancellationToken cancellationToken)
+        {
+            var category = _context.Categories.FirstOrDefault(c => c.Id == request.Id);
+            if (category == null)
+            {
+                return new DeleteCategoryResponse(false, $"Category with ID {request.Id} does not exist.");
+            }
+
+            _context.Categories.Remove(category);
+            await _context.SaveChangesAsync(cancellationToken);
+
+            return new DeleteCategoryResponse(true, "Category deleted successfully.");
+        }
+    }
+}

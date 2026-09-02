@@ -1,0 +1,33 @@
+using MediatR;
+using ProniaModular.Modules.Products.Data;
+
+namespace ProniaModular.Modules.Products.Features.Products.Queries.GetAllProducts
+{
+    public class GetAllProductsHandler : IRequestHandler<GetAllProductsQuery, List<GetAllProductsResponse>>
+    {
+        private readonly ProductsDbContext _context;
+
+        public GetAllProductsHandler(ProductsDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<List<GetAllProductsResponse>> Handle(GetAllProductsQuery request, CancellationToken cancellationToken)
+        {
+            var products = _context.Products
+                .Join(_context.Categories, p => p.CategoryId, c => c.Id, (p, c) => new { p, c })
+                .Where(x => x.p.IsDeleted == 0)
+                .Select(x => new GetAllProductsResponse(
+                    x.p.Id,
+                    x.p.Name,
+                    x.p.Price,
+                    x.p.Description,
+                    x.p.CategoryId,
+                    x.c.Name
+                ))
+                .ToList();
+
+            return await Task.FromResult(products);
+        }
+    }
+}

@@ -1,0 +1,9 @@
+C:\Users\Pc\source\repos\ProniaModular\ProniaModular.Api\obj\Debug\net8.0\ProniaModular.Api.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\ProniaModular\ProniaModular.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Pc\source\repos\ProniaModular\ProniaModular.Api\obj\Debug\net8.0\ProniaModular.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\ProniaModular\ProniaModular.Api\obj\Debug\net8.0\ProniaModular.Api.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\ProniaModular\ProniaModular.Api\obj\Debug\net8.0\ProniaModular.Api.AssemblyInfo.cs
+C:\Users\Pc\source\repos\ProniaModular\ProniaModular.Api\obj\Debug\net8.0\ProniaModular.Api.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\ProniaModular\ProniaModular.Api\obj\Debug\net8.0\ProniaModular.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pc\source\repos\ProniaModular\ProniaModular.Api\obj\Debug\net8.0\ProniaModular.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pc\source\repos\ProniaModular\ProniaModular.Api\obj\Debug\net8.0\ProniaModular.Api.sourcelink.json
