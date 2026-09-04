@@ -5,9 +5,9 @@ namespace ProniaModular.Modules.Products.Features.Sizes.Queries.GetAllSizes
 {
     public class GetAllSizesHandler : IRequestHandler<GetAllSizesQuery, List<GetAllSizesResponse>>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public GetAllSizesHandler(ProductsDbContext context)
+        public GetAllSizesHandler(IAppDbContext context)
         {
             _context = context;
         }

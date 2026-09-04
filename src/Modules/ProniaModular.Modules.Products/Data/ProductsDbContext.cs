@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ProniaModular.Modules.Products.Data
 {
-    public class ProductsDbContext : DbContext
+    public class ProductsDbContext : DbContext, IAppDbContext
     {
         public ProductsDbContext(DbContextOptions<ProductsDbContext> options) : base(options)
         {

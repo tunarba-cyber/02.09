@@ -5,9 +5,9 @@ namespace ProniaModular.Modules.Products.Features.Sizes.Commands.DeleteSize
 {
     public class DeleteSizeHandler : IRequestHandler<DeleteSizeCommand, DeleteSizeResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public DeleteSizeHandler(ProductsDbContext context)
+        public DeleteSizeHandler(IAppDbContext context)
         {
             _context = context;
         }

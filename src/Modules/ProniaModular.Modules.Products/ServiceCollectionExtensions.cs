@@ -16,6 +16,9 @@ namespace ProniaModular.Modules.Products
             services.AddDbContext<ProductsDbContext>(options =>
                 options.UseSqlServer(connectionString));
 
+            // Expose the concrete DbContext through the IAppDbContext abstraction
+            services.AddScoped<IAppDbContext>(sp => sp.GetRequiredService<ProductsDbContext>());
+
             // Register MediatR
             services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(ServiceCollectionExtensions).Assembly));
 
@@ -26,4 +29,3 @@ namespace ProniaModular.Modules.Products
         }
     }
 }
-

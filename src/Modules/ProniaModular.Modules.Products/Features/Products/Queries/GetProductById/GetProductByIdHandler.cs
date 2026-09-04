@@ -5,9 +5,9 @@ namespace ProniaModular.Modules.Products.Features.Products.Queries.GetProductByI
 {
     public class GetProductByIdHandler : IRequestHandler<GetProductByIdQuery, GetProductByIdResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public GetProductByIdHandler(ProductsDbContext context)
+        public GetProductByIdHandler(IAppDbContext context)
         {
             _context = context;
         }

@@ -5,9 +5,9 @@ namespace ProniaModular.Modules.Products.Features.Categories.Commands.DeleteCate
 {
     public class DeleteCategoryHandler : IRequestHandler<DeleteCategoryCommand, DeleteCategoryResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public DeleteCategoryHandler(ProductsDbContext context)
+        public DeleteCategoryHandler(IAppDbContext context)
         {
             _context = context;
         }

@@ -1,0 +1,29 @@
+﻿using MediatR;
+using ProniaModular.Modules.Products.Data;
+
+namespace ProniaModular.Modules.Products.Features.Products.Commands.DeleteProduct
+{
+    public class DeleteProductHandler : IRequestHandler<DeleteProductCommand, DeleteProductResponse>
+    {
+        private readonly ProductsDbContext _context;
+
+        public DeleteProductHandler(ProductsDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<DeleteProductResponse> Handle(DeleteProductCommand request, CancellationToken cancellationToken)
+        {
+            var product = _context.Products.FirstOrDefault(p => p.Id == request.Id);
+            if (product == null)
+            {
+                return new DeleteProductResponse(false, $"Product with ID {request.Id} does not exist.");
+            }
+
+            _context.Products.Remove(product);
+            await _context.SaveChangesAsync(cancellationToken);
+
+            return new DeleteProductResponse(true, "Product deleted successfully.");
+        }
+    }
+}

@@ -5,9 +5,9 @@ namespace ProniaModular.Modules.Products.Features.Categories.Queries.GetAllCateg
 {
     public class GetAllCategoriesHandler : IRequestHandler<GetAllCategoriesQuery, List<GetAllCategoriesResponse>>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public GetAllCategoriesHandler(ProductsDbContext context)
+        public GetAllCategoriesHandler(IAppDbContext context)
         {
             _context = context;
         }

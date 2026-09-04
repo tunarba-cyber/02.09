@@ -6,9 +6,9 @@ namespace ProniaModular.Modules.Products.Features.Products.Commands.CreateProduc
 {
     public class CreateProductHandler : IRequestHandler<CreateProductCommand, CreateProductResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public CreateProductHandler(ProductsDbContext context)
+        public CreateProductHandler(IAppDbContext context)
         {
             _context = context;
         }

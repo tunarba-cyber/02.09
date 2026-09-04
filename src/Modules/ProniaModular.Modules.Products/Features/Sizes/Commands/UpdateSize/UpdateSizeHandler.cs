@@ -5,9 +5,9 @@ namespace ProniaModular.Modules.Products.Features.Sizes.Commands.UpdateSize
 {
     public class UpdateSizeHandler : IRequestHandler<UpdateSizeCommand, UpdateSizeResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public UpdateSizeHandler(ProductsDbContext context)
+        public UpdateSizeHandler(IAppDbContext context)
         {
             _context = context;
         }

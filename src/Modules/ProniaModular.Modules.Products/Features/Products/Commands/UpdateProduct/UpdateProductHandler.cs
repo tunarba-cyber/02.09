@@ -5,9 +5,9 @@ namespace ProniaModular.Modules.Products.Features.Products.Commands.UpdateProduc
 {
     public class UpdateProductHandler : IRequestHandler<UpdateProductCommand, UpdateProductResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public UpdateProductHandler(ProductsDbContext context)
+        public UpdateProductHandler(IAppDbContext context)
         {
             _context = context;
         }

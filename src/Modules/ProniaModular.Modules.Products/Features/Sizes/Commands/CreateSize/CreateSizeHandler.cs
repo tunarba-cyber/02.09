@@ -6,9 +6,9 @@ namespace ProniaModular.Modules.Products.Features.Sizes.Commands.CreateSize
 {
     public class CreateSizeHandler : IRequestHandler<CreateSizeCommand, CreateSizeResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public CreateSizeHandler(ProductsDbContext context)
+        public CreateSizeHandler(IAppDbContext context)
         {
             _context = context;
         }

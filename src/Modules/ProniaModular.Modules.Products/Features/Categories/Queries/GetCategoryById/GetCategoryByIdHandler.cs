@@ -5,9 +5,9 @@ namespace ProniaModular.Modules.Products.Features.Categories.Queries.GetCategory
 {
     public class GetCategoryByIdHandler : IRequestHandler<GetCategoryByIdQuery, GetCategoryByIdResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public GetCategoryByIdHandler(ProductsDbContext context)
+        public GetCategoryByIdHandler(IAppDbContext context)
         {
             _context = context;
         }

@@ -5,9 +5,9 @@ namespace ProniaModular.Modules.Products.Features.Products.Commands.DeleteProduc
 {
     public class DeleteProductHandler : IRequestHandler<DeleteProductCommand, DeleteProductResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public DeleteProductHandler(ProductsDbContext context)
+        public DeleteProductHandler(IAppDbContext context)
         {
             _context = context;
         }

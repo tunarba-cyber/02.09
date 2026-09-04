@@ -6,9 +6,9 @@ namespace ProniaModular.Modules.Products.Features.Categories.Commands.CreateCate
 {
     public class CreateCategoryHandler : IRequestHandler<CreateCategoryCommand, CreateCategoryResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public CreateCategoryHandler(ProductsDbContext context)
+        public CreateCategoryHandler(IAppDbContext context)
         {
             _context = context;
         }

@@ -5,9 +5,9 @@ namespace ProniaModular.Modules.Products.Features.Categories.Commands.UpdateCate
 {
     public class UpdateCategoryHandler : IRequestHandler<UpdateCategoryCommand, UpdateCategoryResponse>
     {
-        private readonly ProductsDbContext _context;
+        private readonly IAppDbContext _context;
 
-        public UpdateCategoryHandler(ProductsDbContext context)
+        public UpdateCategoryHandler(IAppDbContext context)
         {
             _context = context;
         }
