@@ -9,6 +9,6 @@ namespace ProniaModular.Modules.Products.Entities
     public abstract class BaseEntity
     {
         public long Id { get; set; }
-        public int IsDeleted { get; set; } 
+        public bool IsDeleted { get; set; } 
     }
 }

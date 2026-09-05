@@ -15,7 +15,7 @@ namespace ProniaModular.Modules.Products.Features.Categories.Queries.GetAllCateg
         public async Task<List<GetAllCategoriesResponse>> Handle(GetAllCategoriesQuery request, CancellationToken cancellationToken)
         {
             var categories = _context.Categories
-                .Where(c => c.IsDeleted == 0)
+                .Where(c => !c.IsDeleted)
                 .Select(c => new GetAllCategoriesResponse(c.Id, c.Name))
                 .ToList();
 

@@ -65,9 +65,27 @@ namespace ProniaModular.Modules.Products.Endpoints
             return Results.Ok(result);
         }
 
-        private static async Task<IResult> GetAllProducts(IMediator mediator)
+        private static async Task<IResult> GetAllProducts(
+            IMediator mediator,
+            bool includeDeleted = false,
+            string? search = null,
+            decimal? minPrice = null,
+            decimal? maxPrice = null,
+            string? sortBy = null,
+            bool isDescending = false,
+            int page = 1,
+            int pageSize = 10)
         {
-            var query = new GetAllProductsQuery();
+            var query = new GetAllProductsQuery(
+                includeDeleted,
+                search,
+                minPrice,
+                maxPrice,
+                sortBy,
+                isDescending,
+                page,
+                pageSize);
+
             var result = await mediator.Send(query);
             return Results.Ok(result);
         }
