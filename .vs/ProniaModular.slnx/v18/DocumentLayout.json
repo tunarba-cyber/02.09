@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D69E926-F65B-4D50-BF72-6E43AF41E550}|src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ProniaModular.Modules.Users.Application.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.application\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D69E926-F65B-4D50-BF72-6E43AF41E550}|src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ProniaModular.Modules.Users.Application.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.application\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D69E926-F65B-4D50-BF72-6E43AF41E550}|src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ProniaModular.Modules.Users.Application.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.application\\services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D69E926-F65B-4D50-BF72-6E43AF41E550}|src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ProniaModular.Modules.Users.Application.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.application\\services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D69E926-F65B-4D50-BF72-6E43AF41E550}|src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ProniaModular.Modules.Users.Application.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.application\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D69E926-F65B-4D50-BF72-6E43AF41E550}|src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ProniaModular.Modules.Users.Application.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.application\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C005ADE4-A6EC-4AB6-B2DF-F8738320A857}|src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ProniaModular.Modules.Users.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.infrastructure\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C005ADE4-A6EC-4AB6-B2DF-F8738320A857}|src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ProniaModular.Modules.Users.Infrastructure.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.infrastructure\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D69E926-F65B-4D50-BF72-6E43AF41E550}|src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ProniaModular.Modules.Users.Application.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.application\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D69E926-F65B-4D50-BF72-6E43AF41E550}|src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ProniaModular.Modules.Users.Application.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.application\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D69E926-F65B-4D50-BF72-6E43AF41E550}|src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ProniaModular.Modules.Users.Application.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.application\\dtos\\appuser\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D69E926-F65B-4D50-BF72-6E43AF41E550}|src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ProniaModular.Modules.Users.Application.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.application\\dtos\\appuser\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\proniamodular.modules.products\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|solutionrelative:src\\modules\\proniamodular.modules.products\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30BE02-39D4-420C-8509-59A9DAAD663C}|src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\ProniaModular.Modules.Users.Domain.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30BE02-39D4-420C-8509-59A9DAAD663C}|src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\ProniaModular.Modules.Users.Domain.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C005ADE4-A6EC-4AB6-B2DF-F8738320A857}|src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ProniaModular.Modules.Users.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.infrastructure\\dal\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C005ADE4-A6EC-4AB6-B2DF-F8738320A857}|src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ProniaModular.Modules.Users.Infrastructure.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.infrastructure\\dal\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C005ADE4-A6EC-4AB6-B2DF-F8738320A857}|src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ProniaModular.Modules.Users.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.infrastructure\\proniamodular.modules.users.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C005ADE4-A6EC-4AB6-B2DF-F8738320A857}|src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ProniaModular.Modules.Users.Infrastructure.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.infrastructure\\proniamodular.modules.users.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\proniamodular.modules.products\\proniamodular.modules.products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|solutionrelative:src\\modules\\proniamodular.modules.products\\proniamodular.modules.products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30BE02-39D4-420C-8509-59A9DAAD663C}|src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\ProniaModular.Modules.Users.Domain.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.domain\\enums\\usergender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F30BE02-39D4-420C-8509-59A9DAAD663C}|src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\ProniaModular.Modules.Users.Domain.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.domain\\enums\\usergender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30BE02-39D4-420C-8509-59A9DAAD663C}|src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\ProniaModular.Modules.Users.Domain.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\users\\proniamodular.modules.users.domain\\proniamodular.modules.users.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F30BE02-39D4-420C-8509-59A9DAAD663C}|src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\ProniaModular.Modules.Users.Domain.csproj|solutionrelative:src\\modules\\users\\proniamodular.modules.users.domain\\proniamodular.modules.users.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\proniamodular.modules.products\\features\\products\\queries\\getallproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|solutionrelative:src\\modules\\proniamodular.modules.products\\features\\products\\queries\\getallproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,10 +139,6 @@
       "RelativeMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|solutionrelative:src\\modules\\proniamodular.modules.products\\features\\sizes\\commands\\deletesize\\deletesizehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\proniamodular.modules.products\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|solutionrelative:src\\modules\\proniamodular.modules.products\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\proniamodular.modules.products\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|solutionrelative:src\\modules\\proniamodular.modules.products\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -123,10 +171,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\proniamodular.modules.products\\endpoints\\categoryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|solutionrelative:src\\modules\\proniamodular.modules.products\\endpoints\\categoryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\proniamodular.modules.products\\proniamodular.modules.products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|solutionrelative:src\\modules\\proniamodular.modules.products\\proniamodular.modules.products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD4F1704-C6F8-7B43-470B-9445D45EF242}|src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj|c:\\users\\pc\\source\\repos\\proniamodular\\src\\modules\\proniamodular.modules.products\\validators\\sizevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -295,7 +339,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -303,19 +347,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GlobalQueryFilter.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\GlobalQueryFilter.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Data\\GlobalQueryFilter.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\GlobalQueryFilter.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Data\\GlobalQueryFilter.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAABNAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Services\\Implementations\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Services\\Implementations\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Services\\Implementations\\AuthenticationService.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Services\\Implementations\\AuthenticationService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-05T11:58:30.6Z"
+              "WhenOpened": "2026-09-06T09:53:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Services\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Services\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:52:34.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ServiceRegistrations.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\ServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:46:11.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Validators\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Validators\\RegisterDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Validators\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\Validators\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:42:13.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\DTOs\\AppUser\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\DTOs\\AppUser\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\DTOs\\AppUser\\RegisterDto.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Application\\DTOs\\AppUser\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:39:17.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ServiceRegistrations.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ServiceRegistrations.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:27:17.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProniaModular.Modules.Users.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ProniaModular.Modules.Users.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ProniaModular.Modules.Users.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ProniaModular.Modules.Users.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\ProniaModular.Modules.Users.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-06T09:15:51.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\DAL\\UsersDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\DAL\\UsersDbContext.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\DAL\\UsersDbContext.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Infrastructure\\DAL\\UsersDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:08:12.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T21:57:31.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "GetAllCategoriesHandler.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesHandler.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesHandler.cs",
@@ -327,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Entities\\Common\\BaseEntity.cs",
@@ -339,226 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetAllProductsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:45:32.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllProductsHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsHandler.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwFgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:45:37.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\ProductEndpoints.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\ProductEndpoints.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\ProductEndpoints.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\ProductEndpoints.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T13:07:12.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "GetCategoryByIdHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:46:26.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateCategoryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:45:51.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeleteCategoryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:46:16.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdateCategoryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:46:03.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetProductByIdHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:45:29.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwDYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:45:00.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UpdateProductCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:44:48.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwDMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:44:42.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DeleteProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:45:14.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetSizeByIdHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:47:37.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GetAllSizesHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesHandler.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:47:45.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GetAllSizesQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesQuery.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesQuery.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesQuery.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:47:40.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UpdateSizeHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:47:14.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CreateSizeHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeHandler.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:46:49.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DeleteSizeHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeHandler.cs",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeHandler.cs",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeHandler.cs",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeHandler.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T10:47:25.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\ServiceCollectionExtensions.cs",
@@ -570,7 +492,271 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GlobalQueryFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\GlobalQueryFilter.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Data\\GlobalQueryFilter.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\GlobalQueryFilter.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Data\\GlobalQueryFilter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T11:58:30.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProniaModular.Modules.Products.csproj",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-02T10:38:50.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProniaModular.Modules.Users.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\ProniaModular.Modules.Users.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\ProniaModular.Modules.Users.Domain.csproj",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\ProniaModular.Modules.Users.Domain.csproj",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\ProniaModular.Modules.Users.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-05T21:55:15.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserGender.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\Enums\\UserGender.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\Enums\\UserGender.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\Enums\\UserGender.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\ProniaModular.Modules.Users.Domain\\Enums\\UserGender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T21:58:59.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:45:32.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllProductsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsHandler.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:45:37.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:07:12.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetCategoryByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:46:26.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:45:51.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:46:16.189Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "UpdateCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:46:03.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetProductByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:45:29.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:45:00.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:44:48.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:44:42.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:45:14.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetSizeByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:47:37.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetAllSizesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:47:45.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetAllSizesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesQuery.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesQuery.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetAllSizes\\GetAllSizesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:47:40.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateSizeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:47:14.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateSizeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:46:49.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteSizeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeHandler.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeHandler.cs",
+              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:47:25.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "ProductsDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\ProductsDbContext.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Data\\ProductsDbContext.cs",
@@ -582,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "IAppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\IAppDbContext.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Data\\IAppDbContext.cs",
@@ -594,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "IAppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\IAppDbContext.cs",
               "RelativeDocumentMoniker": "ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\IAppDbContext.cs",
@@ -606,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\ProniaModular.Api\\Program.cs",
               "RelativeDocumentMoniker": "ProniaModular.Api\\Program.cs",
@@ -618,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 38,
               "Title": "plan-implement-crud-operations-with-cqrs-pattern-and-minimal-apis.md [Preview]",
               "DocumentMoniker": "C:\\Users\\Pc\\.copilot\\plans\\plan-implement-crud-operations-with-cqrs-pattern-and-minimal-apis.md",
               "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-implement-crud-operations-with-cqrs-pattern-and-minimal-apis.md",
@@ -630,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "plan-create-product,-category,-and-size-entities-with-dbcontext-and-validators.md [Preview]",
               "DocumentMoniker": "C:\\Users\\Pc\\.copilot\\plans\\plan-create-product,-category,-and-size-entities-with-dbcontext-and-validators.md",
               "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-create-product,-category,-and-size-entities-with-dbcontext-and-validators.md",
@@ -642,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 40,
               "Title": "ProniaModular.Api.csproj",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\ProniaModular.Api\\ProniaModular.Api.csproj",
               "RelativeDocumentMoniker": "ProniaModular.Api\\ProniaModular.Api.csproj",
@@ -654,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 42,
               "Title": "CategoryEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\CategoryEndpoints.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\CategoryEndpoints.cs",
@@ -666,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "SizeEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\SizeEndpoints.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Endpoints\\SizeEndpoints.cs",
@@ -678,19 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ProniaModular.Modules.Products.csproj",
-              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj",
-              "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj",
-              "ToolTip": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj",
-              "RelativeToolTip": "src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-02T10:38:50.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 43,
               "Title": "SizeValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Validators\\SizeValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Validators\\SizeValidator.cs",
@@ -702,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 44,
               "Title": "ProductValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Validators\\ProductValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Validators\\ProductValidator.cs",
@@ -714,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 45,
               "Title": "CategoryValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Validators\\CategoryValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Validators\\CategoryValidator.cs",
@@ -726,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 46,
               "Title": "UpdateCategoryCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommandValidator.cs",
@@ -738,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 47,
               "Title": "UpdateCategoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
@@ -750,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 48,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Entities\\Category.cs",
@@ -762,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 49,
               "Title": "ProductSize.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Entities\\ProductSize.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Entities\\ProductSize.cs",
@@ -774,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 50,
               "Title": "Size.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Entities\\Size.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Entities\\Size.cs",
@@ -786,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 51,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\ProniaModular.Api\\appsettings.json",
               "RelativeDocumentMoniker": "ProniaModular.Api\\appsettings.json",
@@ -798,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 52,
               "Title": "ProniaModular.Api",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\ProniaModular.Api\\ProniaModular.Api.csproj",
               "RelativeDocumentMoniker": "ProniaModular.Api\\ProniaModular.Api.csproj",
@@ -809,7 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 53,
               "Title": "plan-implement-crud-operations-with-cqrs-pattern-and-minimal-apis.md",
               "DocumentMoniker": "C:\\Users\\Pc\\.copilot\\plans\\plan-implement-crud-operations-with-cqrs-pattern-and-minimal-apis.md",
               "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-implement-crud-operations-with-cqrs-pattern-and-minimal-apis.md",
@@ -821,7 +995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 55,
               "Title": "CreateCategoryCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommandValidator.cs",
@@ -833,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 56,
               "Title": "CreateCategoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
@@ -845,7 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 54,
               "Title": "BaseAccountableEntity.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Entities\\Common\\BaseAccountableEntity.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Entities\\Common\\BaseAccountableEntity.cs",
@@ -857,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 58,
               "Title": "CreateSizeCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeCommandValidator.cs",
@@ -869,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 57,
               "Title": "CreateSizeCommand.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeCommand.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\CreateSize\\CreateSizeCommand.cs",
@@ -881,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 59,
               "Title": "GetAllCategoriesQuery.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesQuery.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesQuery.cs",
@@ -893,7 +1067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 60,
               "Title": "GetCategoryByIdQueryValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdQueryValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdQueryValidator.cs",
@@ -905,7 +1079,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 61,
               "Title": "GetCategoryByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdQuery.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Queries\\GetCategoryById\\GetCategoryByIdQuery.cs",
@@ -917,7 +1091,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 62,
               "Title": "DeleteCategoryCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryCommandValidator.cs",
@@ -929,7 +1103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 63,
               "Title": "DeleteCategoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Categories\\Commands\\DeleteCategory\\DeleteCategoryCommand.cs",
@@ -941,7 +1115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 64,
               "Title": "GetProductByIdQueryValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQueryValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQueryValidator.cs",
@@ -953,7 +1127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 65,
               "Title": "GetProductByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQuery.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Queries\\GetProductById\\GetProductByIdQuery.cs",
@@ -965,7 +1139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 66,
               "Title": "DeleteProductCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandValidator.cs",
@@ -977,7 +1151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 67,
               "Title": "DeleteProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
@@ -989,7 +1163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 68,
               "Title": "UpdateProductCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandValidator.cs",
@@ -1001,7 +1175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 69,
               "Title": "CreateProductCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
@@ -1013,7 +1187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 70,
               "Title": "CreateProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
@@ -1025,7 +1199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 71,
               "Title": "GetSizeByIdQueryValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdQueryValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdQueryValidator.cs",
@@ -1037,7 +1211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 72,
               "Title": "GetSizeByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdQuery.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Queries\\GetSizeById\\GetSizeByIdQuery.cs",
@@ -1049,7 +1223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 73,
               "Title": "DeleteSizeCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeCommandValidator.cs",
@@ -1061,7 +1235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 74,
               "Title": "DeleteSizeCommand.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeCommand.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\DeleteSize\\DeleteSizeCommand.cs",
@@ -1073,7 +1247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 75,
               "Title": "UpdateSizeCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeCommandValidator.cs",
@@ -1085,7 +1259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 76,
               "Title": "UpdateSizeCommand.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeCommand.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Features\\Sizes\\Commands\\UpdateSize\\UpdateSizeCommand.cs",
@@ -1097,7 +1271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 77,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Entities\\Product.cs",
@@ -1109,7 +1283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 78,
               "Title": "ProductSizeConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\Configurations\\ProductSizeConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Data\\Configurations\\ProductSizeConfiguration.cs",
@@ -1121,7 +1295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 79,
               "Title": "SizeConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\Configurations\\SizeConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Data\\Configurations\\SizeConfiguration.cs",
@@ -1133,7 +1307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 80,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\Configurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Data\\Configurations\\CategoryConfiguration.cs",
@@ -1145,7 +1319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 81,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Data\\Configurations\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Data\\Configurations\\ProductConfiguration.cs",
@@ -1157,7 +1331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 82,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\Class1.cs",
               "RelativeDocumentMoniker": "src\\Modules\\ProniaModular.Modules.Products\\Class1.cs",

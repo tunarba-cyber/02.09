@@ -1,0 +1,6 @@
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.AssemblyInfo.cs
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.sourcelink.json

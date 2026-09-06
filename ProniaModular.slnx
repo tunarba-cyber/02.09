@@ -1,7 +1,14 @@
 <Solution>
   <Folder Name="/src/" />
-  <Folder Name="/src/Modules/">
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Products/">
     <Project Path="src/Modules/ProniaModular.Modules.Products/ProniaModular.Modules.Products.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Users/">
+    <Project Path="src/Modules/Users/ProniaModular.Modules.Users.Application.Presentation/ProniaModular.Modules.Users.Application.Presentation.csproj" Id="16119bc9-662e-4b7b-ad0e-9549f4668cfb" />
+    <Project Path="src/Modules/Users/ProniaModular.Modules.Users.Application/ProniaModular.Modules.Users.Application.csproj" Id="7d69e926-f65b-4d50-bf72-6e43af41e550" />
+    <Project Path="src/Modules/Users/ProniaModular.Modules.Users.Domain/ProniaModular.Modules.Users.Domain.csproj" Id="9f30be02-39d4-420c-8509-59a9daad663c" />
+    <Project Path="src/Modules/Users/ProniaModular.Modules.Users.Infrastructure/ProniaModular.Modules.Users.Infrastructure.csproj" Id="c005ade4-a6ec-4ab6-b2df-f8738320a857" />
   </Folder>
   <Project Path="ProniaModular.Api/ProniaModular.Api.csproj">
     <BuildDependency Project="src/Modules/ProniaModular.Modules.Products/ProniaModular.Modules.Products.csproj" />
