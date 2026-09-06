@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ProniaModular.Modules.Users.Application\ProniaModular.Modules.Users.Application.csproj" />
+    <ProjectReference Include="..\ProniaModular.Modules.Users.Infrastructure\ProniaModular.Modules.Users.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -14,7 +14,7 @@ namespace ProniaModular.Modules.Products.Features.Sizes.Queries.GetSizeById
 
         public async Task<GetSizeByIdResponse> Handle(GetSizeByIdQuery request, CancellationToken cancellationToken)
         {
-            var size = _context.Sizes.FirstOrDefault(s => s.Id == request.Id && s.IsDeleted == 0);
+            var size = _context.Sizes.FirstOrDefault(s => s.Id == request.Id && !s.IsDeleted);
             if (size == null)
             {
                 throw new InvalidOperationException($"Size with ID {request.Id} not found.");

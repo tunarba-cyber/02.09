@@ -4,3 +4,17 @@ C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.U
 C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.AssemblyInfo.cs
 C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.sourcelink.json
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\bin\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.deps.json
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\bin\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.runtimeconfig.json
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\bin\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.dll
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\bin\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.pdb
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\bin\Debug\net8.0\ProniaModular.Modules.Users.Application.dll
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\bin\Debug\net8.0\ProniaModular.Modules.Users.Domain.dll
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\bin\Debug\net8.0\ProniaModular.Modules.Users.Application.pdb
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\bin\Debug\net8.0\ProniaModular.Modules.Users.Domain.pdb
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaMo.35E289BD.Up2Date
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.dll
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\refint\ProniaModular.Modules.Users.Infrastructure.dll
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.pdb
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ProniaModular.Modules.Users.Infrastructure.genruntimeconfig.cache
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Infrastructure\obj\Debug\net8.0\ref\ProniaModular.Modules.Users.Infrastructure.dll

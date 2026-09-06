@@ -1617,7 +1617,8 @@
           "FluentValidation": "12.1.1",
           "FluentValidation.AspNetCore": "11.3.1",
           "FluentValidation.DependencyInjectionExtensions": "12.1.1",
-          "ProniaModular.Modules.Users.Domain": "1.0.0"
+          "ProniaModular.Modules.Users.Domain": "1.0.0",
+          "System.IdentityModel.Tokens.Jwt": "6.35.0"
         },
         "compile": {
           "bin/placeholder/ProniaModular.Modules.Users.Application.dll": {}

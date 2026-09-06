@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\src\Modules\ProniaModular.Modules.Products\ProniaModular.Modules.Products.csproj" />
+    <ProjectReference Include="..\src\Modules\Users\ProniaModular.Modules.Users.Application.Presentation\ProniaModular.Modules.Users.Application.Presentation.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9,6 +9,7 @@ namespace ProniaModular.Api.Extensions
         {
             using var scope = app.ApplicationServices.CreateScope();
             scope.MigrateDatabase<ProductsDbContext>();
+            //Ai ile bide migration elave etmedim hamsi eynidi
 
             
         }

@@ -16,7 +16,7 @@ namespace ProniaModular.Modules.Products.Features.Products.Queries.GetProductByI
         {
             var product = _context.Products
                 .Join(_context.Categories, p => p.CategoryId, c => c.Id, (p, c) => new { p, c })
-                .FirstOrDefault(x => x.p.Id == request.Id && x.p.IsDeleted == 0);
+                .FirstOrDefault(x => x.p.Id == request.Id && !x.c.IsDeleted);
 
             if (product == null)
             {

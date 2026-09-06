@@ -14,7 +14,7 @@ namespace ProniaModular.Modules.Products.Features.Categories.Queries.GetCategory
 
         public async Task<GetCategoryByIdResponse> Handle(GetCategoryByIdQuery request, CancellationToken cancellationToken)
         {
-            var category = _context.Categories.FirstOrDefault(c => c.Id == request.Id && c.IsDeleted == 0);
+            var category = _context.Categories.FirstOrDefault(c => c.Id == request.Id && !c.IsDeleted);
             if (category == null)
             {
                 throw new InvalidOperationException($"Category with ID {request.Id} not found.");

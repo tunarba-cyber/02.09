@@ -1,0 +1,16 @@
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\bin\Debug\net8.0\ProniaModular.Modules.Users.Application.deps.json
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\bin\Debug\net8.0\ProniaModular.Modules.Users.Application.dll
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\bin\Debug\net8.0\ProniaModular.Modules.Users.Application.pdb
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\bin\Debug\net8.0\ProniaModular.Modules.Users.Domain.dll
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\bin\Debug\net8.0\ProniaModular.Modules.Users.Domain.pdb
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\ProniaModular.Modules.Users.Application.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\ProniaModular.Modules.Users.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\ProniaModular.Modules.Users.Application.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\ProniaModular.Modules.Users.Application.AssemblyInfo.cs
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\ProniaModular.Modules.Users.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\ProniaModular.Modules.Users.Application.sourcelink.json
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\ProniaMo.1FC394C4.Up2Date
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\ProniaModular.Modules.Users.Application.dll
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\refint\ProniaModular.Modules.Users.Application.dll
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\ProniaModular.Modules.Users.Application.pdb
+C:\Users\Pc\source\repos\ProniaModular\src\Modules\Users\ProniaModular.Modules.Users.Application\obj\Debug\net8.0\ref\ProniaModular.Modules.Users.Application.dll

@@ -1184,6 +1184,65 @@
         "runtime": {
           "bin/placeholder/ProniaModular.Modules.Products.dll": {}
         }
+      },
+      "ProniaModular.Modules.Users.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "FluentValidation": "12.1.1",
+          "FluentValidation.AspNetCore": "11.3.1",
+          "FluentValidation.DependencyInjectionExtensions": "12.1.1",
+          "ProniaModular.Modules.Users.Domain": "1.0.0",
+          "System.IdentityModel.Tokens.Jwt": "6.35.0"
+        },
+        "compile": {
+          "bin/placeholder/ProniaModular.Modules.Users.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProniaModular.Modules.Users.Application.dll": {}
+        }
+      },
+      "ProniaModular.Modules.Users.Application.Presentation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ProniaModular.Modules.Users.Application": "1.0.0",
+          "ProniaModular.Modules.Users.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProniaModular.Modules.Users.Application.Presentation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProniaModular.Modules.Users.Application.Presentation.dll": {}
+        }
+      },
+      "ProniaModular.Modules.Users.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.30"
+        },
+        "compile": {
+          "bin/placeholder/ProniaModular.Modules.Users.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProniaModular.Modules.Users.Domain.dll": {}
+        }
+      },
+      "ProniaModular.Modules.Users.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.30",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.30",
+          "ProniaModular.Modules.Users.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProniaModular.Modules.Users.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProniaModular.Modules.Users.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -3118,12 +3177,33 @@
       "type": "project",
       "path": "../src/Modules/ProniaModular.Modules.Products/ProniaModular.Modules.Products.csproj",
       "msbuildProject": "../src/Modules/ProniaModular.Modules.Products/ProniaModular.Modules.Products.csproj"
+    },
+    "ProniaModular.Modules.Users.Application/1.0.0": {
+      "type": "project",
+      "path": "../src/Modules/Users/ProniaModular.Modules.Users.Application/ProniaModular.Modules.Users.Application.csproj",
+      "msbuildProject": "../src/Modules/Users/ProniaModular.Modules.Users.Application/ProniaModular.Modules.Users.Application.csproj"
+    },
+    "ProniaModular.Modules.Users.Application.Presentation/1.0.0": {
+      "type": "project",
+      "path": "../src/Modules/Users/ProniaModular.Modules.Users.Application.Presentation/ProniaModular.Modules.Users.Application.Presentation.csproj",
+      "msbuildProject": "../src/Modules/Users/ProniaModular.Modules.Users.Application.Presentation/ProniaModular.Modules.Users.Application.Presentation.csproj"
+    },
+    "ProniaModular.Modules.Users.Domain/1.0.0": {
+      "type": "project",
+      "path": "../src/Modules/Users/ProniaModular.Modules.Users.Domain/ProniaModular.Modules.Users.Domain.csproj",
+      "msbuildProject": "../src/Modules/Users/ProniaModular.Modules.Users.Domain/ProniaModular.Modules.Users.Domain.csproj"
+    },
+    "ProniaModular.Modules.Users.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../src/Modules/Users/ProniaModular.Modules.Users.Infrastructure/ProniaModular.Modules.Users.Infrastructure.csproj",
+      "msbuildProject": "../src/Modules/Users/ProniaModular.Modules.Users.Infrastructure/ProniaModular.Modules.Users.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.OpenApi >= 8.0.30",
       "ProniaModular.Modules.Products >= 1.0.0",
+      "ProniaModular.Modules.Users.Application.Presentation >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -3162,6 +3242,9 @@
           "projectReferences": {
             "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj": {
               "projectPath": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\ProniaModular.Modules.Products\\ProniaModular.Modules.Products.csproj"
+            },
+            "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application.Presentation\\ProniaModular.Modules.Users.Application.Presentation.csproj": {
+              "projectPath": "C:\\Users\\Pc\\source\\repos\\ProniaModular\\src\\Modules\\Users\\ProniaModular.Modules.Users.Application.Presentation\\ProniaModular.Modules.Users.Application.Presentation.csproj"
             }
           }
         }

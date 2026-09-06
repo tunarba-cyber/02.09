@@ -10,5 +10,7 @@ namespace ProniaModular.Modules.Users.Application.Services.Interfaces
     public interface IAuthenticationService
     {
         Task RegisterAsync(RegisterDto user);
+        Task<string> LoginAsync(LoginDto user);
+
     }
 }
